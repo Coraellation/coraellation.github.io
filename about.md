@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi there!
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+My name's Cora (yep, just like the breakfast restaurant and not The Legend of Korra) and I'm studying Software Engineering at The University of Waterloo. I’ll be periodically posting about student and co-op life here. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+If you have any questions, feel free to e-mail me at [coralam17@gmail.com](mailto:coralam17@gmail.com) or [cora.lam@uwaterloo.ca](mailto:cora.lam@uwaterloo.ca).

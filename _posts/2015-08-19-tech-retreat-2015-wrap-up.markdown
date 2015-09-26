@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Tech Retreat 2015 Wrap Up"
+date:   2015-08-19 12:0:00
+categories: jekyll update
+---
+
+After three and half months of planning, we’ve made it happen.
+
+There were a few slip-ups at [Tech Retreat], such as going over time by an hour and scrambling in the end. But it was priceless to see parents’ faces light up with pride when they saw the projects their own kids were able to make by the end of the day. The goal was met: empower the youth with technology and leave them with something they can continue building on.
+
+Needless to say, this was the first time for most of the members of the organizing team to host a hackathon and learnathon. It was much more planning and stress than I had anticipated, but it was all worthwhile with this team. Some of the team kept the adrenaline going by joining the organizing teams for Hack the North and Waterloo Wearhacks. If you’re looking to be a part of any of these, let me know.
+
+As for the event itself, it was incredible to see the sheer concentration these high school hackers had. It was most notable at the beginning of the day when we announced that all sponsors were in the main atrium with free swag, but barely any students came down because they were so fixated on planning their hacks. I was also proud to see an all-girls team and a few other girls scattered in other teams, but that number could definitely increase in the upcoming years. It was important that one of the panelists was a woman so that girls in their youth can aspire and become a leader of the next generation and avoid being intimidated by a field dominated by males. Overall, the number of females at Tech Retreat can improve, which is something we will work on for next year and onboard more female organizers, mentors, and volunteers.
+
+Aside from a few hiccups, most volunteers, mentors, and organizers were well-prepared, and if not, were ready to handle anything coming their way. Most likely for next year, we’ll have a pre-event run-through for everyone to clear up any questions to further boost efficiency for the day (if we were to make this event only one day again).
+
+Even though it was not a significant portion of the day, MC’ing the opening and closing ceremonies of the event was nerve-wracking. Coming from a fairly quiet person, speaking to a group of 200 students was an amazing experience. I always had trouble and a slight stutter when speaking in front of large groups, but this helped me get over that (terrible experience when reciting my Gr. 7 speech to a class and proceeding to blank out in front of 30 middle school kids — scarring, really).
+
+In the end, this adventure couldn’t have happened without Tech Retreat’s team. We’ve already started a bit of planning for next year, but we’re opening up to a lot more ideas for next year, such as hosting a two-day event instead of one. Who knows what will happen next year, but cheers to Tech Retreat 2016!
+
+[Tech Retreat]: http://techretreat.ca/
