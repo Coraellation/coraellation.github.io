@@ -21,6 +21,8 @@ $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
+$teal-color:       #46A9B3;
+
 // Width of the content area
 $content-width:    800px;
 
@@ -50,3 +52,47 @@ $on-laptop:        800px;
         "layout",
         "syntax-highlighting"
 ;
+
+// Entries
+.entries {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.entry {
+	margin: 0 0 1.5em 0;
+	line-height: 1;
+}
+
+.entry-date,
+.entry-title {
+	float: left;
+}
+
+.entry-date {
+	line-height: 1.75;
+	color: #999;
+	font-size: .75em;
+	text-align: right;
+	text-transform: uppercase;
+	width: 20%;
+}
+
+.entry-title {
+	display: inline;
+	text-indent: .75em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	word-wrap: normal;
+	width: 80%;
+}
+
+.entry-title h2 {
+	display: inline;
+	line-height: 1.25;
+	font-family: "Roboto", sans-serif;
+	font-size: 1em;
+	margin: 0;
+}
