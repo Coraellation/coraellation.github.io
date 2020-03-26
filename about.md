@@ -6,6 +6,6 @@ permalink: /about/
 
 Hi there!
 
-My name's Cora (yep, just like the breakfast restaurant and not The Legend of Korra) and I'm studying Software Engineering at The University of Waterloo. I’ll be periodically posting about student and co-op life here. 
+My name's Cora (yep, just like the Canadian breakfast restaurant and not The Legend of Korra). After studying Software Engineering and Computer Science at The University of Waterloo, I moved to the Bay Area to work full-time.
 
-If you have any questions, feel free to e-mail me at [coralam17@gmail.com](mailto:coralam17@gmail.com) or [cora.lam@uwaterloo.ca](mailto:cora.lam@uwaterloo.ca).
+If you've got any questions / ideas / thoughts / just want to chat, I'd love to hear from you! Feel free to reach out to me at [coralam17@gmail.com](mailto:coralam17@gmail.com).
