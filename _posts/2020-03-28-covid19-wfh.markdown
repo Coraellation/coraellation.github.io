@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Work During COVID-19 Outbreak"
+date:   2020-03-30 12:0:00
+categories: jekyll update
+---
+
+# The Pandemic
+
+One year after I moved to California, the world was hit by a COVID-19 pandemic. It seems like the world's gears have paused, but the tech world is still running (to some extent).
+
+Global outbreaks seem to trigger my need to write since the last time I blogged was 5 years ago during the MERS outbreak. It's a thereupetic outlet. On that note, I've written some thoughts down below on what work is like during this time.
+
+# Shift to Work From Home
+
+Amidst this COVID-19 outbreak, Facebook enforced a work-from-home (WFH) policy. It's currently the fourth week of WFH. It's absolutely not as productive as working in the office since it's harder to be motivated without seeing co-workers working at their desks. Plus, it's distracting and uneasy to digest the worldwide death count related to this virus. 
+
+Today, SF / Bay Area's shelter-in-place was extended for another month. But I'm estimating at the very least another 2 months of WFH before we're comfortable walking less than six feet away from others.
+
+# Work Environment
+
+Hoping to simulate a more official work environment, I lugged my monitor, ergonomic keyboard, and mouse back home from work (obviously with the company's permission). Besides it being a great arm workout to lug it home, I found that it's not the equipment that creates a productive environment. Rather, it's having the discipline to follow a work-hour schedule.
