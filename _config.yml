@@ -10,3 +10,5 @@ github_username:  coraellation
 
 # Build settings
 markdown: kramdown
+plugins:
+  - jekyll-sitemap
