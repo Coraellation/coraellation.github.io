@@ -1,22 +1,36 @@
 ---
 layout: post
-title:  "Work During COVID-19 Outbreak"
+title:  "Work Traps: COVID-19 WFH Edition"
 date:   2020-03-30 12:0:00
 categories: jekyll update
 ---
 
 # The Pandemic
 
-One year after I moved to California, the world was hit by a COVID-19 pandemic. It seems like the world's gears have paused, but the tech world is still running (to some extent).
-
-Global outbreaks seem to trigger my need to write since the last time I blogged was 5 years ago during the MERS outbreak. It's a thereupetic outlet. On that note, I've written some thoughts down below on what work is like during this time.
+One year after I moved to California, the world was hit by a COVID-19 pandemic. It seems like the world's gears have paused, but the tech world is still running (to some extent).On that note, I've written some thoughts down below on what work is like during this time.
 
 # Shift to Work From Home
 
-Amidst this COVID-19 outbreak, Facebook enforced a work-from-home (WFH) policy. It's currently the fourth week of WFH. It's absolutely not as productive as working in the office since it's harder to be motivated without seeing co-workers working at their desks. Plus, it's distracting and uneasy to digest the worldwide death count related to this virus. 
+Amidst this outbreak, Facebook enforced a work-from-home (WFH) policy. It's currently the fourth week of WFH. For now, it's not as productive as working in the office since it's harder to be motivated without seeing co-workers working at their desks. Plus, it's distracting and uneasy to digest the worldwide death count related to this virus.
 
-Today, SF / Bay Area's shelter-in-place was extended for another month. But I'm estimating at the very least another 2 months of WFH before we're comfortable walking less than six feet away from others.
+Today, SF / Bay Area's shelter-in-place was extended for another month until June. But I'm estimating at the very least another two months of WFH before we're comfortable walking less than six feet away from others.
 
-# Work Environment
+## WFH Traps
 
-Hoping to simulate a more official work environment, I lugged my monitor, ergonomic keyboard, and mouse back home from work (obviously with the company's permission). Besides it being a great arm workout to lug it home, I found that it's not the equipment that creates a productive environment. Rather, it's having the discipline to follow a work-hour schedule.
+Hoping to simulate a more official work environment, I lugged my monitor, ergonomic keyboard, and mouse back home from work. Besides it being a great arm workout to lug it home, I found that it's not the equipment that creates a productive environment for me. Rather, it's having a work-hour schedule. Here are some WFH traps that I fell into -- some of which I consciously know I'm doing, but have yet to fix.
+
+* **Morning Tik Tok Trap**: I'd wake up at 7:30 am every day -- great start for an engineer, right? Yes...until I opened Tik Tok. Early in the pandemic, I discovered Tik Tok. I'd scroll through this app for at least half an hour the minute I woke up. Then, I'd scramble out of bed to make some coffee and feel totally rushed and discouraged to start any work. It was hard to break this habit, but I try to limit myself from opening any social media when I wake up and roll out of bed to make coffee. My morning just feels better without Tik Tok.
+
+* **Early Afternoon Lunch Break...?**: I found myself micro-optimizing a bit too much. I told myself if I could eat lunch while working, then I could finish work earlier! Totally wrong. Instead, my work just extended over a lunch break and it's not even productive. Now, I try to step away from the computer during lunch, or at least away from work chats. Since there's no one to socialize with in real life during lunch, I typically eat while watching YouTube. I try to take a short walk after eating, since that's what I'd do in the office, too.
+
+* **Late Afternoon Work Slump**: I'll admit that the afternoon slump is most definitely because I didn't take a break during lunch / earlier. Even though I know this, why is it still so hard to put on some pants and walk out the door for a short break? It's definitely the putting-on-pants part. It's eaier now that the weather is warmer, so I can just put on shorts instead of leggings. And yes, leggings are the new formal.
+
+* **Evening: To Stop or Not To Stop?**: I'd say I almost have FOMO for work-related events. For example, I want to stay informed of anything that breaks or has issues. A part of me thinks that the best way to stay on top of things is to always be aware of what's going on in the team. But this obviously sacrifices some work-life-balance. There are ongoing work chats until 7 - 8 pm usually. And it's hard to stay away from them when you were so heavily invested in them during the day. This one, I'm still trying to figure out the best way to handle.
+
+# Some Good Traps
+
+Typically, I like working in the mornings since my mind is a bit clearer (except for when I use Tik Tok..). One of my teammates also starts working around 9 am and I find this really encouraging for me to start work. I find her responsiveness at this time boosts my productivity and sets the right pace for the rest of the day.
+
+At the end of the day, it's a lot easier to stop work if I have something scheduled at a specific time after work. Sometimes, it might just be a quick call with friends. Other times, it could be a quick trip to Lowe's to buy more plants. It's something to look forward to while working during the day.
+
+Overall, I can't complain about still having a job, plus being able to WFH. Hopefully we can all navigate 2020 better and put COVID-19 to an end.
