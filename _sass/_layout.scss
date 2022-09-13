@@ -194,6 +194,7 @@
 .page-heading {
     font-size: 20px;
     font-weight: 400;
+    margin-top: $spacing-unit;
 }
 
 .post-list {
@@ -221,7 +222,7 @@
  * Posts
  */
 .post-header {
-    margin-bottom: $spacing-unit;
+    margin-bottom: 0;
 }
 
 .post-title {
@@ -260,4 +261,9 @@
             font-size: 18px;
         }
     }
+
+    body {
+        color: $grey-color;
+    }
+
 }
