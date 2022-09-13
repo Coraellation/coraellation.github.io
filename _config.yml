@@ -7,6 +7,9 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://coraellation.github.io/" # the base hostname & protocol for your site
 twitter_username: coraellation
 github_username:  coraellation
+youtube: https://www.youtube.com/c/coralam
+linkedin: https://www.linkedin.com/in/coraellation/
+instagram: https://www.instagram.com/coraellation/
 
 # Build settings
 markdown: kramdown
