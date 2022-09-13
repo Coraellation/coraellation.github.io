@@ -94,14 +94,10 @@
     font-weight: 400;
     letter-spacing: -1px;
     margin-bottom: 0;
-    // a {
-    //     color: black;
-    // }
 }
 
 .intro-blurb {
     font-size: 16px;
-    margin-bottom: 50px;
     color: $grey-color;
 }
 
@@ -111,8 +107,13 @@
  */
 .footer-links {
     a {
-        color: black;
-        font-weight: 400;
+        color: rgb(137, 137, 137);
+        margin-right: 10px;
+        text-decoration: none; 
+        -webkit-transition:color 0.1s ease-in; 
+        &:hover {
+            color: rgb(88, 87, 87);
+        }
     }
 }
 
@@ -136,14 +137,12 @@
 .footer-col-wrapper {
     font-size: 15px;
     color: $grey-color;
-    margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
 
 .footer-col {
-    text-align: center;
     margin-bottom: $spacing-unit / 2;
-    border-top: 1px solid $grey-color-light;
+    // border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
