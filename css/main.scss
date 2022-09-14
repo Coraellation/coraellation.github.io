@@ -56,19 +56,7 @@ $on-laptop:        800px;
 ;
 
 // Entries
-.entries {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-
-.entry {
-	margin: 0 0 1.5em 0;
-	line-height: 1;
-}
-
 .entry-date {
-	// line-height: 1.75;
 	color: $grey-color-medium;
 	font-size: .75em;
 	text-transform: uppercase;
@@ -100,12 +88,4 @@ $on-laptop:        800px;
 	> a {
 		color: $grey-color-dark;
 	}
-}
-
-.entry-title h2 {
-	display: inline;
-	line-height: 1.25;
-	font-family: "Roboto", sans-serif;
-	font-size: 1em;
-	margin: 0;
 }

@@ -6,7 +6,7 @@ permalink: /projects/
 
 <h2>Cool things I've created</h2>
 
-<h3>Hacks</h3>
+<h3>Apps</h3>
 <ul class="post-list">
     {% for project in site.data.projects %}
     <li>
@@ -14,9 +14,6 @@ permalink: /projects/
             <a target="_blank" href="{{ project.link }}">{{ project.name }}</a>
             {{ project.date | date: "%Y" }}
         </div>
-        <!-- <div class="entry-title">
-            <a target="_blank" href="{{ project.link }}">{{ project.name }}</a>
-        </div> -->
         <div class="entry-desc">
             {{ project.desc }}
         </div>
@@ -28,29 +25,29 @@ permalink: /projects/
     {% endfor %}
 </ul>
 
-<!-- <h3>Vlogs</h3>
+<h3>Vlogs</h3>
 <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.data.vlogs %}
     <li>
+        <div class="entry-title">
+            <a target="_blank" href="{{ post.link }}">{{ post.name }}</a>
+        </div>
         <div class="entry-date">
             {{ post.date | date: "%b %-d, %Y" }}
         </div>
-        <div class="entry-title">
-            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </div>
     </li>
     {% endfor %}
-</ul> -->
+</ul>
 
 <h3>Blogs</h3>
 <ul class="post-list">
     {% for post in site.posts %}
     <li>
-        <div class="entry-date">
-            {{ post.date | date: "%b %-d, %Y" }}
-        </div>
         <div class="entry-title">
             <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </div>
+        <div class="entry-date">
+            {{ post.date | date: "%b %-d, %Y" }}
         </div>
     </li>
     {% endfor %}
