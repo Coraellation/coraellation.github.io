@@ -20,6 +20,7 @@ $brand-color:      #2a7ae2;
 
 $grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
+$grey-color-medium:  lighten($grey-color, 5%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 $teal-color:       #46A9B3;
@@ -66,28 +67,39 @@ $on-laptop:        800px;
 	line-height: 1;
 }
 
-.entry-date,
-.entry-title {
-	float: left;
-}
-
 .entry-date {
-	line-height: 1.75;
-	color: #999;
+	// line-height: 1.75;
+	color: $grey-color-medium;
 	font-size: .75em;
-	text-align: right;
 	text-transform: uppercase;
-	width: 20%;
 }
 
-.entry-title {
-	display: inline;
-	text-indent: .75em;
+.entry-metadata {
+	color: $grey-color-medium;
+	font-size: .75em;
+}
+
+.entry-desc {
 	overflow: hidden;
 	text-overflow: ellipsis;
-	white-space: nowrap;
 	word-wrap: normal;
-	width: 80%;
+	font-size: $small-font-size;
+	margin-bottom: 0;
+
+	> a {
+		color: $grey-color-dark;
+	}
+}
+
+.entry-title {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	word-wrap: normal;
+	font-size: $small-font-size;
+
+	> a {
+		color: $grey-color-dark;
+	}
 }
 
 .entry-title h2 {

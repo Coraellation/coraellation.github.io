@@ -1,0 +1,23 @@
+- name: Scenify
+  date: 2016-05-30 12:0:00
+  link: https://github.com/Jefftree/scenify
+  desc: A route-finding tool to traverse the most scenic path between two points. Classifies street view images as scenic or not using Clarifai’s image tags and a neural network.
+  tools: Node.js, Clarifai API, Machine Learning Library
+
+- name: StockIt
+  date: 2016-02-27 12:0:00
+  link: https://github.com/Coraellation/StockIt
+  desc: A financial analysis and stock recommendation tool. Applies semantic analysis on Bloomberg news for the past month using natural language processing.
+  tools: Node.js, Express, Socket.io, NLP Library
+
+- name: SiteSee
+  date: 2015-09-06 12:0:00
+  link: https://devpost.com/software/sitesee-xpm5ht
+  desc: A tool for the visually impaired to understand the world around them by reading aloud relevant labels for the scene in front of them using an Android device.
+  tools: Android SDK, IBM Bluemix Visual Recognition API
+
+- name: Draw Friends
+  date: 2013-12-23 12:0:00
+  link: https://github.com/Coraellation/DrawFriendsGit/tree/master/DrawFriends
+  desc: A realtime interactive drawing application where two devices connected via bluetooth can collaboratively draw on the same canvas for easy idea sharing.
+  tools: Android SDK, Bluetooth API
